@@ -50,7 +50,7 @@ How do you go about trouble shooting the issue? Depending on what you find, what
 consider the issue fixed or resolved?
 
 **Tips:**
-- You are free to make **ANY* assumptions, write down your assumptions.
+- You are free to make **ANY** assumptions, write down your assumptions.
 
 ## 4. Taking over an old project
 
@@ -61,4 +61,4 @@ The more you code, the more edge case you encounter.
 Describe, in as much detail as you like, how you would handle this situation.
 
 **Tips:**
-- You are free to make **ANY* assumptions, write down your assumptions.
+- You are free to make **ANY** assumptions, write down your assumptions.
