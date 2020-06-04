@@ -91,8 +91,8 @@ consider the issue fixed or resolved?
 2. If the issue is a general issue with less information, I will try to ask more questions to gather more details and eliminate variables.
 3. When having basic background info, I will try to reproduce the issue, verify it is the same one the client reported.
 4. Then start taking steps to fix the issue based on findings.
-Assumption 1: If the issue is easy, I can do it pretty quickly.
-Assumption 2: If the issue is difficult, I will try to research more, use my experiences, ask colleages, or Google for others who have faced the same issue.
+- Assumption 1: If the issue is easy, I can do it pretty quickly.
+- Assumption 2: If the issue is difficult, I will try to research more, use my experiences, ask colleages, or Google for others who have faced the same issue.
 5. Once the issue resolved, I will add more test cases depending on the scope of the bug. This could be unit tests, integration tests, etc.
 
 ## 4. Taking over an old project
